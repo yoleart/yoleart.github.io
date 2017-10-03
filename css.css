@@ -2,10 +2,10 @@ body{
 	
 font-family: "Helvetica", "Arial", fantasy;
 	
-color: #0b5f72;
-	background-color: #3dc4e2;
+color: #75ffe1;
+	background-color: #590a0a;
 	
-text-shadow: 1px 1px #0146c6;
+text-shadow: 1px 1px #0b1630;
 	text-align: center;
 
 }
@@ -18,14 +18,14 @@ font-size: 1.3em;
 	
 text-align: center;
 	
-text-shadow: 1px 1px #0146c6;
+text-shadow: 1px 1px #0b1630;
 
 }
 
 
 td, th {
     
-border: 1px solid #dddddd;
+border: 1px solid #30000b;
     
 text-align: left;
     
@@ -37,6 +37,6 @@ padding: 8px;
 
 tr:nth-child(even) {
     
-background-color: #dddddd;
+background-color: #30000b;
 
 }
